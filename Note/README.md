@@ -6,8 +6,11 @@ Oracle DBA 강의 노트 정리
 https://www.easyupclass.com
 
 ## 1. SQL_Note
+SQL
+SQL_Tuning
 
 <br>
 <br>
 
 ## 2. Oracle_Admin1_Note
+Oracle_Admin1
