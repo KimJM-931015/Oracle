@@ -7,6 +7,7 @@ https://www.easyupclass.com
 
 ## 1. SQL_Note
 SQL
+
 SQL_Tuning
 
 <br>
