@@ -10,4 +10,4 @@ https://www.easyupclass.com
 <br>
 <br>
 
-## 2. Oracle_Admin_Note
+## 2. Oracle_Admin1_Note
