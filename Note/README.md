@@ -15,3 +15,9 @@ SQL_Tuning
 
 ## 2. Oracle_Admin1_Note
 Oracle_Admin1
+
+<br>
+<br>
+
+## 3. Linux_Note
+Linux
